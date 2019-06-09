@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 const DEFAULT_WORK_MINS = 25;
-const DEFAULT_BREAK_MINS = 5;
+const DEFAULT_BREAK_MINS = 6;
 
 const minToSec = mins => mins * 60;
 
