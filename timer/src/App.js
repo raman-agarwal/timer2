@@ -7,7 +7,7 @@ const minToSec = mins => mins * 60;
 
 
 function SetTimer(props) {
-  console.log("in set Timer");
+  console.log("in setTimer");
   let timer;
   let ms, timeToReach;
 
